@@ -1,16 +1,18 @@
-### Hi there 👋
+# 🅴🆄🆁🅴🅺🅰 ![](https://www.codewars.com/users/eureka-cpu/badges/small)
 
-<!--
-**eureka-cpu/eureka-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_**--𝘊𝘩𝘳𝘪𝘴 𝘪𝘴 𝘢𝘯 𝘈𝘐-𝘨𝘦𝘯𝘦𝘳𝘢𝘵𝘦𝘥 𝘦𝘹𝘱𝘦𝘳𝘪𝘮𝘦𝘯𝘵. 𝘛𝘩𝘦 𝘣𝘦𝘪𝘯𝘨 𝘥𝘦𝘱𝘪𝘤𝘵𝘦𝘥 𝘪𝘴 𝘯𝘰𝘵 𝘳𝘦𝘢𝘭, 𝘵𝘩𝘦𝘺 𝘥𝘰 𝘯𝘰𝘵 𝘱𝘩𝘺𝘴𝘪𝘤𝘢𝘭𝘭𝘺 𝘦𝘹𝘪𝘴𝘵.**_
 
-Here are some ideas to get you started:
+🔗 Blockchain & Back-end:
+![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+💻 Web Development:
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+🖼️ Frameworks:
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+| Contributing         | Status       | Description                          |
+| :----------------------- | :----- | :------------------------ |
+|🌴 [Sway](https://github.com/FuelLabs/sway) | [![crates.io](https://img.shields.io/crates/v/forc?label=Latest)](https://crates.io/crates/forc) | A Domain-Specific Language for the Fuel Virtual Machine. Read "[The Sway Book](https://fuellabs.github.io/sway/latest/index.html)" for more details. |
+|🧩 [Sway VS Code Plugin](https://github.com/FuelLabs/sway-vscode-plugin) | [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/FuelLabs.sway-vscode-plugin?label=Version)](https://marketplace.visualstudio.com/items?itemName=FuelLabs.sway-vscode-plugin)| Use Sway's LSP to enhance your developer experience when writing Sway programs.|
+|💸 [SwaySwap](https://github.com/FuelLabs/swayswap) | ![Soon](https://badgen.net/badge/icon/%20Testing?icon=false&label&color=yellow) | Swap assets from a faucet with our convenient UI. |
