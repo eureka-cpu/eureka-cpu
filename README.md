@@ -12,7 +12,7 @@ _**--𝘊𝘩𝘳𝘪𝘴 𝘪𝘴 𝘢𝘯 𝘈𝘐-𝘨𝘦𝘯𝘦𝘳𝘢�
 
 🖼️ Frameworks:
 
-![](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/React_Native-mint?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/React_Native-mint?style=for-the-badge&logo=react&logoColor=black) ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
