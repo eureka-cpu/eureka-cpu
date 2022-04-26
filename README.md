@@ -4,15 +4,15 @@ Software Engineer @FuelLabs ⛽ Building the world's 𝘧𝘢𝘴𝘵𝘦𝘴�
 
 🔗 **Blockchain & Back-end:**
 
-![](https://img.shields.io/badge/Rust-white?style=flat-square&logo=rust&logoColor=red) ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=red) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 💻 **Web Development:**
 
-![](https://img.shields.io/badge/JavaScript-grey?style=flat-square&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 🖼 **Frameworks:**
 
-![](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/React_Native-mint?style=flat-square&logo=react&logoColor=white) ![](https://img.shields.io/badge/next.js-black?style=flat-square&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/React_Native-mint?style=for-the-badge&logo=react&logoColor=white) ![](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
