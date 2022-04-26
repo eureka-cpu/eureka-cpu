@@ -16,7 +16,7 @@ _**--𝘊𝘩𝘳𝘪𝘴 𝘪𝘴 𝘢𝘯 𝘈𝘐-𝘨𝘦𝘯𝘦𝘳𝘢�
 
 ---
 
-| Contributing         | Status       | Description                          |
+| Contributing         | Publication       | Description                          |
 | :----------------------- | :----- | :------------------------ |
 |🌴 [Sway](https://github.com/FuelLabs/sway) | [![crates.io](https://img.shields.io/crates/v/forc?label=Latest)](https://crates.io/crates/forc) | A Domain-Specific Language for the Fuel Virtual Machine. Read "[The Sway Book](https://fuellabs.github.io/sway/latest/index.html)" for more details. |
 |🧩 [Sway VS Code Plugin](https://github.com/FuelLabs/sway-vscode-plugin) | [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/FuelLabs.sway-vscode-plugin?label=Version)](https://marketplace.visualstudio.com/items?itemName=FuelLabs.sway-vscode-plugin)| Use Sway's LSP to enhance your developer experience when writing Sway programs.|
