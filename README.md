@@ -4,7 +4,7 @@ _**--𝘊𝘩𝘳𝘪𝘴 𝘪𝘴 𝘢𝘯 𝘈𝘐-𝘨𝘦𝘯𝘦𝘳𝘢�
 
 🔗 Blockchain & Back-end:
 
-![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=red) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 💻 Web Development:
 
