@@ -1,6 +1,6 @@
 # Chris O'Brien ![](https://www.codewars.com/users/eureka-cpu/badges/small)
 
-Software Engineer @FuelLabs ⛽ Building the world's 𝘧𝘢𝘴𝘵𝘦𝘴𝘵 modular execution layer 🌏⚡
+Software Engineer @FuelLabs ⛽ Building the world's 𝘧𝘢𝘴𝘵𝘦𝘴𝘵 Modular Execution Layer 🌏⚡
 
 🔗 Blockchain & Back-end:
 
