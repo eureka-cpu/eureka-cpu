@@ -4,7 +4,7 @@ Software Engineer [@FuelLabs](https://github.com/FuelLabs) ⛽ Building the worl
 
 🔗 -- 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻 & 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱:
 
-![Rust](https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=red) ![Java](https://img.shields.io/badge/Java-ED9B00?style=for-the-badge&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=red) ![Java](https://img.shields.io/badge/Java-ED9B00?style=for-the-badge&logo=java&logoColor=004000)
 
 💻 -- 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:
 
