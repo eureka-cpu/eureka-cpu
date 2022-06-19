@@ -12,7 +12,7 @@ Software Engineer [@FuelLabs](https://github.com/FuelLabs) ⛽ Building the worl
 
 🖼 -- 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀:
 
-![React](https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react&logoColor=004000) ![RN](https://img.shields.io/badge/React_Native-lightgreen?style=for-the-badge&logo=react&logoColor=004000) ![NJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![RJS](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react&logoColor=FFFFFF) ![RN](https://img.shields.io/badge/React_Native-lightgreen?style=for-the-badge&logo=react&logoColor=FFFFFF) ![NJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![RJS](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
