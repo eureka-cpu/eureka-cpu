@@ -4,7 +4,7 @@ Software Engineer [@FuelLabs](https://github.com/FuelLabs) ⛽ Building the worl
 
 👾 - 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:
 
-![Rust](https://img.shields.io/badge/-white?style=for-the-badge&logo=rust&logoColor=red) ![Java](https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![JSON](https://img.shields.io/badge/-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![TS](https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PY](https://img.shields.io/badge/-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Rust](https://img.shields.io/badge/-white?style=for-the-badge&logo=rust&logoColor=red) ![Java](https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![JSON](https://img.shields.io/badge/-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![TS](https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PY](https://img.shields.io/badge/-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 📚 - 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 & 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀:
 
